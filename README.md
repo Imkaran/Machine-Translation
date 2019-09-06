@@ -20,4 +20,5 @@ Machine Translation using Keras
 ### Inference Model:
 > python Inference_Model.py
 
-##### Note: I have saved the data in pickle file and load it. To first save the file uncomment the line #13 and #14
+##### Note: I have saved the data in pickle file and load it. you need to first save the data in pickle file,so uncomment the line #13 
+and #14
