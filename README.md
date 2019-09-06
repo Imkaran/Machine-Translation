@@ -3,6 +3,4 @@ Machine Translation using Keras
 
 ### Model Architetcure:
 
-<img src="https://github.com/Imkaran/Machine-Translation/blob/master/Images/encoder_decoder_model.PNG"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+![encoder_decoder_model](https://user-images.githubusercontent.com/31925932/64406964-c3cf5380-d0a0-11e9-8b1b-a8161ebf84c0.PNG)
