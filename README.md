@@ -15,7 +15,7 @@ Machine Translation using Keras
 [Click here](http://www.manythings.org/anki/mar-eng.zip) to download the dataset.It consist of total 35832 sentences which are translated from english to marathi
 
 ### Train Model:
-> python main.py
+> python train.py
 
 ##### Note: If code throws a MemoryError, then one hot encode the output in batches
 
