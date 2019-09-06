@@ -25,5 +25,5 @@ Machine Translation using Keras
 ##### Note: I have saved the data in pickle file and load it. you need to first save the data in pickle file,so uncomment the line #13 and #14
 
 ### Accuarcy after 30 epochs:
-![accuracy after 30 epochs](https://github.com/Imkaran/Machine-Translation/blob/master/Images/accuracy.PNG)
+![accuracy after 30 epochs](https://user-images.githubusercontent.com/31925932/64409020-b6689800-d0a5-11e9-8d08-534c33aa81a2.PNG)
 
