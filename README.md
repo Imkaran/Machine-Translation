@@ -12,7 +12,7 @@ Machine Translation using Keras
   * Decoder takes the input as hidden state from encoder and try to predict marathi transalation of english sentence
   
 ### Dataset :
-[Click here](http://www.manythings.org/anki/mar-eng.zip) to download the dataset.It consist of total 35832 sentences which are translated from english to marathi
+[Click here](http://www.manythings.org/anki/mar-eng.zip) to download the dataset. It consist of total 35832 sentences which are translated from english to marathi
 
 ### Train Model:
 > python train.py
