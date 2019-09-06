@@ -1,5 +1,5 @@
 # Machine-Translation
-## Machine Translation using LSTM Sequence to Sequence Model in Keras
+Machine Translation using LSTM Sequence to Sequence Model in Keras
 
 ### Model Architetcure:
 
